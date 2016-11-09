@@ -1,0 +1,6 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\bin\Debug\ReadCsvfromFile.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\bin\Debug\ReadCsvfromFile.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\bin\Debug\ReadCsvfromFile.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\obj\Debug\ReadCsvfromFile.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\obj\Debug\ReadCsvfromFile.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ReadCsvfromFile\ReadCsvfromFile\obj\Debug\ReadCsvfromFile.pdb
